@@ -1,6 +1,6 @@
 ## Hello There! I'm Joshua Manicom
 
-I'm an Electrical Engineering Student at the [University of British Columbia] (https://ubc.ca/) with a passion for designing electronic circuits/PCB's and system programming languages like C, C++, Assembly, System Verilog, etc.
+I'm an Electrical Engineering Student at the [University of British Columbia](https://ubc.ca/) with a passion for designing electronic circuits/PCB's and system programming languages like C, C++, Assembly, System Verilog, etc.
 
 Through my formal education and self-teaching from hobby work, I have found a strong interest in concepts like computer arcitecture and analog circuit design and aim to have a career in such a field. My repositories consist of various notes for programming languages/school as well as personal projects that I am working on.
 
