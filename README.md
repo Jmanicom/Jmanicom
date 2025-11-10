@@ -4,7 +4,7 @@ I'm an Electrical Engineering Student at the [University of British Columbia](ht
 
 Through my formal education and self-teaching from hobby work, I have found a strong interest in concepts like computer arcitecture and analog circuit design and aim to have a career in such a field. My repositories consist of various notes for programming languages/school-work as well as personal projects that I am working on.
 
-I'm currently working on deepening my understanding of C++ through learning OpenGL and using that knowledge to build a physics simulation engine for animation. I'm open to collaboration and new opportunities, please reach me via my [LinkedIn profile](https://www.linkedin.com/in/joshua-manicom-1650432b5/).
+I'm currently working on deepening my understanding of C++ through learning OpenGL/SFML and using that knowledge to build a fractal generator/explorer, if you're curious, here is the [repo](https://github.com/Jmanicom/FractalGen). I'm open to collaboration and new opportunities, please reach me via my [LinkedIn profile](https://www.linkedin.com/in/joshua-manicom-1650432b5/).
 
 <!--
 **Jmanicom/Jmanicom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
