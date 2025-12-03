@@ -2,7 +2,7 @@
 
 I'm an Electrical Engineering Student at the [University of British Columbia](https://ubc.ca/) with a passion for designing electronic circuits/PCB's and system programming languages like C, C++, Assembly, etc.
 
-Through my formal education and self-teaching from hobby work, I have found a strong interest in concepts like computer arcitecture and analog circuit design and aim to have a career in such a field. My repositories consist of various notes for programming languages/school-work as well as personal projects that I am working on.
+Through my formal education and self-teaching from hobby work, I have found a strong interest in concepts like computer architecture and analog circuit design and aim to have a career in such a field. My repositories consist of various notes for programming languages/school-work as well as personal projects that I am working on.
 
 I'm currently working on deepening my understanding of C++ through learning OpenGL/SFML and using that knowledge to build a fractal generator/explorer, if you're curious, here is the [repo](https://github.com/Jmanicom/FractalGen). I'm open to collaboration and new opportunities, please reach me via my [LinkedIn profile](https://www.linkedin.com/in/joshua-manicom-1650432b5/).
 
