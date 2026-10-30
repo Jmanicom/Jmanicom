@@ -4,7 +4,11 @@ I'm an Electrical Engineering Student at the [University of British Columbia](ht
 
 Through my formal education and self-teaching from hobby work, I have found a strong interest in concepts like computer architecture and analog circuit design and aim to have a career in such a field. My repositories consist of various notes for programming languages/school-work as well as personal projects that I am working on.
 
-I'm currently working on building a power supply for a audio development board that I have in the works. If you're curious, here is the [repo](https://github.com/Jmanicom/Dual-Rail-Power-Supply). I'm open to collaboration and new opportunities, please reach me via my [LinkedIn profile](https://www.linkedin.com/in/joshua-manicom-1650432b5/).
+I'm currently working on two projects at this time, one hardware, and one software. Namely:
+  - A dual-rail power supply for an audio development board that I have in the works. If you're curious, here is the [repository](https://github.com/Jmanicom/Dual-Rail-Power-Supply).
+  - An electronics component inventory manager, named PartBuddy. If you're an ECE student viewing this, please feel free to reach out an suggest features! [PartBuddy](https.//github.com/Jmanicom/PartBuddy).
+
+I'm open to collaboration and new opportunities, please reach me via my [LinkedIn profile](https://www.linkedin.com/in/joshua-manicom-1650432b5/) or via the email found on my profile.
 
 <!--
 **Jmanicom/Jmanicom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
