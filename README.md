@@ -4,6 +4,6 @@ Through my formal education and self-teaching from hobby work, I have found a st
 
 I'm currently working on two projects at this time, one hardware, and one software. Namely:
   - [A Dual-Rail Power Supply](https://github.com/Jmanicom/Dual-Rail-Power-Supply) - for an audio development board that I have in the works.
-  - [PartBuddy](https.//github.com/Meridian-devs/PartBuddy) - an electronics component inventory manager. If you're an ECE student viewing this, please feel free to reach out an suggest features.
+  - [PartBuddy](https://github.com/Meridian-devs/PartBuddy) - an electronics component inventory manager. If you're an ECE student viewing this, please feel free to reach out an suggest features.
 
 I'm open to collaboration and new opportunities, please reach me via my [LinkedIn](https://www.linkedin.com/in/joshua-manicom-1650432b5/) or via the email found on my profile.
